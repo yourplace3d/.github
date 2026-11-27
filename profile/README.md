@@ -63,6 +63,12 @@ licence:    MIT
 </tr>
 </table>
 
+## 🤝 Using it for work
+
+**May I use what I make?** Yes, privately and for work. Everything is built from open map data. Keep the credit wherever you show it: "Map data © OpenStreetMap contributors".
+
+**Print shop, school or company?** If Your Place is nearly what you need but not quite, say what is missing: [yourplace3d@gmail.com](mailto:yourplace3d@gmail.com).
+
 ## 💬 Printed one? Missing something?
 
 A lot of what is in Your Place started as someone's message. Photos of prints and ideas for what is missing are welcome: [open an issue →](https://github.com/yourplace3d/3d-city/issues/new) or write to [yourplace3d@gmail.com](mailto:yourplace3d@gmail.com).
